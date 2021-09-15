@@ -9,3 +9,5 @@
 		return false;
 	});
 })();
+
+console.log("add text after setting Github pages.");
